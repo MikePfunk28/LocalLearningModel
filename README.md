@@ -1,3 +1,2 @@
-## What is the politicians real agenda
-
+# EndCorruptionApp
 End Political Corruption by tracking laws they vote for or pass.
