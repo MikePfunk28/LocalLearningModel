@@ -1,0 +1,17 @@
+{
+    "layers": [
+        {
+            "type": "dense",
+            "input_size": 3,
+            "output_size": 16,
+            "activation": "relu"
+        },
+        {
+            "type": "dense",
+            "input_size": 16,
+            "output_size": 2,
+            "activation": "softmax"
+        }
+    ],
+    "weights_file": "/app/examples/../models/simple_classifier_v2_weights.npz"
+}
